@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ratikantmohanta/Simon_Game)
-- Live Site URL: [Add live site URL here](https://ratikantmohanta.github.io/Simon_Game/)
+- Solution URL: [https://github.com/ratikantmohanta/Simon_Game](https://github.com/ratikantmohanta/Simon_Game)
+- Live Site URL: [https://ratikantmohanta.github.io/Simon_Game/](https://ratikantmohanta.github.io/Simon_Game/)
 
 ## My process
 
